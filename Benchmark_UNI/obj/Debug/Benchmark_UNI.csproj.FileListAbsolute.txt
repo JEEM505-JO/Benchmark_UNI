@@ -1,0 +1,16 @@
+C:\Users\Joaquin Mayorga\source\repos\Benchmark_UNI\Benchmark_UNI\bin\Debug\Benchmark_UNI.exe.config
+C:\Users\Joaquin Mayorga\source\repos\Benchmark_UNI\Benchmark_UNI\bin\Debug\Benchmark_UNI.exe
+C:\Users\Joaquin Mayorga\source\repos\Benchmark_UNI\Benchmark_UNI\bin\Debug\Benchmark_UNI.pdb
+C:\Users\Joaquin Mayorga\source\repos\Benchmark_UNI\Benchmark_UNI\obj\Debug\Benchmark_UNI.csproj.AssemblyReference.cache
+C:\Users\Joaquin Mayorga\source\repos\Benchmark_UNI\Benchmark_UNI\obj\Debug\Benchmark_UNI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Joaquin Mayorga\source\repos\Benchmark_UNI\Benchmark_UNI\obj\Debug\MainWindow.g.cs
+C:\Users\Joaquin Mayorga\source\repos\Benchmark_UNI\Benchmark_UNI\obj\Debug\App.g.cs
+C:\Users\Joaquin Mayorga\source\repos\Benchmark_UNI\Benchmark_UNI\obj\Debug\Benchmark_UNI_MarkupCompile.cache
+C:\Users\Joaquin Mayorga\source\repos\Benchmark_UNI\Benchmark_UNI\obj\Debug\Benchmark_UNI_MarkupCompile.lref
+C:\Users\Joaquin Mayorga\source\repos\Benchmark_UNI\Benchmark_UNI\obj\Debug\MainWindow.baml
+C:\Users\Joaquin Mayorga\source\repos\Benchmark_UNI\Benchmark_UNI\obj\Debug\Benchmark_UNI.g.resources
+C:\Users\Joaquin Mayorga\source\repos\Benchmark_UNI\Benchmark_UNI\obj\Debug\Benchmark_UNI.Properties.Resources.resources
+C:\Users\Joaquin Mayorga\source\repos\Benchmark_UNI\Benchmark_UNI\obj\Debug\Benchmark_UNI.csproj.GenerateResource.cache
+C:\Users\Joaquin Mayorga\source\repos\Benchmark_UNI\Benchmark_UNI\obj\Debug\Benchmark_UNI.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin Mayorga\source\repos\Benchmark_UNI\Benchmark_UNI\obj\Debug\Benchmark_UNI.exe
+C:\Users\Joaquin Mayorga\source\repos\Benchmark_UNI\Benchmark_UNI\obj\Debug\Benchmark_UNI.pdb
