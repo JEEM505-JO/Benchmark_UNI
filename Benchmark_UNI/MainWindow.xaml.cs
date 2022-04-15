@@ -18,13 +18,22 @@ namespace Benchmark_UNI
         {
             //inicio de reloj
             Stopwatch sw = Stopwatch.StartNew();
-            int n1, n2, result;
+            long n1, n2, result; // cambiamos el tipo de variable a long, para hacer pruebas con cantidades grandes
+            int contador = 0;
             double result2;
 
-            n1 = int.Parse(number1.Text);
-            n2 = int.Parse(number2.Text);
+            n1 = long.Parse(number1.Text);
+            n2 = long.Parse(number2.Text);
 
-            result = n1 + n2;
+            // obtener el producto de dos numeros mediante una sucesion
+            // inicio del cambio
+
+            while (contador < n2) {
+
+                result += n1;
+                contador++;
+            }
+            // fin del cambio
 
             resultsuma.Text = result.ToString();
             
