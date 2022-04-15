@@ -25,6 +25,7 @@ namespace Benchmark_UNI
             n1 = long.Parse(number1.Text);
             n2 = long.Parse(number2.Text);
 
+            // ------------
             // obtener el producto de dos numeros mediante una sucesion
             // inicio del cambio
 
